@@ -24,11 +24,11 @@
 
 
 ### 人物或者主体特征
-服饰穿搭 white dress
-发型发色 blonde hair，long hair
-五官特征 small eye，big mouth
-面部表情 smiling
-肢体动作 stretching arms
+white dress 服饰穿搭 
+blonde hair，long hair 发型发色 
+small eye，big mouth 五官特征 
+smiling 面部表情 
+stretching arms 肢体动作  
 beautiful detailed eyes 美丽细致的眼睛
 highly detailed skin 高度细致的皮肤
 extremely delicate and beautiful girls 非常精致和美丽的女孩
@@ -41,13 +41,12 @@ extremely delicate and beautiful girls 非常精致和美丽的女孩
 
 
 ### 环境光照
-白天/黑夜 day/night
-特定时段 morning/sunset
+day/night 白天/黑夜 
+morning/sunset 特定时段  
 光环境 sunlight，bright，dark
 天空 blue sky，starry sky
 cinematic lighting(电影光)
 dynamic lighting(动感光)
-
 
 
 ### 视线
@@ -58,18 +57,16 @@ looking back 回头看
 looking up 仰望、仰视、抬头
 
 
-
 ### 画幅视角
-距离 close-up，distant
-人物比例 full body，upper body
-观察视角 from above，view of back
-镜头类型 wide angle，Sony A7 III
-dynamic angle 动态角度
+close-up，distant 距离 
+full body，upper body 人物比例 
+from above，view of back 观察视角 
+wide angle，Sony A7 III 镜头类型 
+dynamic angle 动态角度  
 from above 从上方
 from below 从下面
 wide shot 广角镜头
 Aerial View 空中摄影照片、航摄照片、鸟（俯）瞰图
-
 
 ### 构图
 dynamic angle
@@ -85,7 +82,6 @@ looking at another
 looking away
 looking back
 looking up
-
 
 
 ### 人物表情
@@ -105,7 +101,6 @@ kneeling 跪着的
 hand between legs 手放在两腿之间
 hair flip 头发翻转
 skirt flip 裙摆翻转
-
 
 
 ### 画风提示词
